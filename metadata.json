@@ -1,0 +1,6 @@
+{
+  "name": "Nutriagente Semanal",
+  "description": "Planificador inteligente de menús semanales con ingredientes regionalizados según la ubicación y adaptados al inventario del supermercado elegido.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
